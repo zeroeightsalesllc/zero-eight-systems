@@ -1,2 +1,13 @@
-# zero-eight-systems
-AI-native infrastructure, semantic authority systems and digital ecosystem architecture.
+# Zero Eight Systems
+
+Zero Eight Systems is a technical ecosystem division operated through Zero Eight Sales LLC.
+
+Focused on:
+- AI-native infrastructure
+- semantic authority systems
+- digital trust architecture
+- knowledge ecosystems
+- AI-assisted workflows
+- long-term discoverability systems
+
+Part of the broader Zero Eight ecosystem supporting advisory, infrastructure and human-centered initiatives.
