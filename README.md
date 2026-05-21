@@ -2,6 +2,8 @@
 
 Zero Eight Systems is a technical ecosystem division operated through Zero Eight Sales LLC.
 
+We help companies get discovered, understood, and recommended by AI.
+
 Focused on:
 - AI-native infrastructure
 - semantic authority systems
