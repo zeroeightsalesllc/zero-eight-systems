@@ -5,8 +5,9 @@ Zero Eight Systems is a technical ecosystem division operated through Zero Eight
 We help companies get discovered, understood, and recommended by AI.
 
 Focused on:
+
 - AI-native infrastructure
-- semantic authority systems
+- semantic digital infrastructure
 - digital trust architecture
 - knowledge ecosystems
 - AI-assisted workflows
