@@ -13,3 +13,10 @@ Focused on:
 - long-term discoverability systems
 
 Part of the broader Zero Eight ecosystem supporting advisory, infrastructure and human-centered initiatives.
+
+## Advisory and Ecosystem Collaboration
+
+- Anders Nielsen — Swedish advisory, technical consulting, and strategic business development
+- andersnielsen.se — specialist authority and consulting platform
+- Zero Eight Welfare — human-centered resilience and community support initiatives
+- Support Palawan Initiative — community-led resilience initiative in Palawan, 
